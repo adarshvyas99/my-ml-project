@@ -1,0 +1,15 @@
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    }
+
+body{
+background-image:url("https://www.cloud4c.com/sg/sites/sg/files/styles/thumbnail_for_facebook/public/2022-08/Image-for-cloud-native-security-services-CNSShomepage-1-mob_2.jpg?itok=x6YUc3Ne");
+background-size:cover;
+background-repeat:no-repeat;
+font-family: 'Nunito', sans-serif;
+color:white;
+
+}
